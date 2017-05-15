@@ -1,0 +1,28 @@
+Origin: manuels.github.io
+Label: manuels.github.io
+Codename: jessie
+Date: Mon, 15 May 2017 15:35:54 UTC
+Architectures: amd64
+Components: main
+Description: Packages for manuels.github.com software
+MD5Sum:
+ 1ec2896cf7a860acbf5b4eac5376969f 581 main/binary-amd64/Packages
+ caeb1697affa14167680011afc0e9bcf 390 main/binary-amd64/Packages.gz
+ e05da955567bc0d1e4d676b3e7b858b0 141 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ a2ee7a5e83f738f67506db4d35c0a194 142 main/source/Release
+SHA1:
+ ab12ee5123ab2a4d7bf1edbee9678481d945ef7e 581 main/binary-amd64/Packages
+ 2a83da776e7d384c6eee61285913d227f63e89a4 390 main/binary-amd64/Packages.gz
+ 285bf43c926a370de4096cde2293aa413eb2facf 141 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ 9b8acad40c8e1a9c5161c06304746addf450392b 142 main/source/Release
+SHA256:
+ c946751d1871a210b2db1aa354675f68943a4aae83c4729e72899c909430625d 581 main/binary-amd64/Packages
+ 3e95b7bb4c4c90ed38c3720203cadf4c7bab63e32ebc167cfdc942a54ee0dd2a 390 main/binary-amd64/Packages.gz
+ d1f1e3fc3a7966886e13ec4a7605d59c4a29080df5bf1fc16245d51633cb5bb3 141 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ 6f86a537d47ec89f2c5a4ed1a126f2a8100befc77138fc0d33c7ea912e7054c8 142 main/source/Release

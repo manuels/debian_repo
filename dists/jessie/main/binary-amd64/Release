@@ -1,0 +1,5 @@
+Component: main
+Origin: manuels.github.io
+Label: manuels.github.io
+Architecture: amd64
+Description: Packages for manuels.github.com software
