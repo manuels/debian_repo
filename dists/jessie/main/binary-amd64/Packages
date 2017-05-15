@@ -1,17 +1,17 @@
 Package: bulletinboard
 Version: 0.5.3
 License: unknown
-Vendor: travis@testing-gce-14091ebd-cf4f-4209-afd5-ed6a7a6a6557
+Vendor: travis@testing-gce-6373b958-8c33-4cf6-b916-0c06cd4ffb1f
 Architecture: amd64
-Maintainer: <travis@testing-gce-14091ebd-cf4f-4209-afd5-ed6a7a6a6557>
-Installed-Size: 4183
+Maintainer: <travis@testing-gce-6373b958-8c33-4cf6-b916-0c06cd4ffb1f>
+Installed-Size: 5016
 Homepage: http://example.com/no-uri-given
 Priority: extra
 Section: default
 Filename: pool/main/b/bulletinboard/bulletinboard_0.5.3_amd64.deb
-Size: 1510140
-SHA256: 2c119204c6d159989ca427881424b73da7f0de68e4560f0e9619e2811e1757b3
-SHA1: 160cf05c2e0c84f61d0b53c924f9ce9f4bfb4e9c
-MD5sum: d6593757fcee673b49ca3e1699a918ad
+Size: 1555510
+SHA256: 93c45ad0697be78a7dcf334127db9554a0ffc4def994945dba0d9eee9380a2a9
+SHA1: 65529425acf2eccc674515bf290e057a055df089
+MD5sum: c2b2ed2e4bd96daa68afe1e507f2ed18
 Description: no description given
 

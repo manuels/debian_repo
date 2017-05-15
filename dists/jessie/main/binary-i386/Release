@@ -1,7 +1,5 @@
+Component: main
 Origin: manuels.github.io
 Label: manuels.github.io
-Codename: jessie
-Architectures: i386 amd64 source
-Components: main
+Architecture: i386
 Description: Packages for manuels.github.com software
-SignWith: 03BE768561920388
